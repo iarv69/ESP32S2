@@ -1,4 +1,4 @@
-# Install script for directory: /home/iarv/esp/simple_ota_example/main
+# Install script for directory: /home/iarv/esp/repoesp/simple_ota_example/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

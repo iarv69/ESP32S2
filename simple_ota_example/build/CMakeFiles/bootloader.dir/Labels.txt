@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/iarv/esp/simple_ota_example/build/CMakeFiles/bootloader
-/home/iarv/esp/simple_ota_example/build/CMakeFiles/bootloader.rule
-/home/iarv/esp/simple_ota_example/build/CMakeFiles/bootloader-complete.rule
-/home/iarv/esp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/iarv/esp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/iarv/esp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/iarv/esp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
-/home/iarv/esp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/iarv/esp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/iarv/esp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/CMakeFiles/bootloader
+/home/iarv/esp/repoesp/simple_ota_example/build/CMakeFiles/bootloader.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/CMakeFiles/bootloader-complete.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/iarv/esp/repoesp/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

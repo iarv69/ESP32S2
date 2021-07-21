@@ -19,7 +19,6 @@
 
 #include "nvs.h"
 #include "nvs_flash.h"
-#include "protocol_examples_common.h"
 #include <sys/socket.h>
 #if CONFIG_EXAMPLE_CONNECT_WIFI
 #include "esp_wifi.h"
