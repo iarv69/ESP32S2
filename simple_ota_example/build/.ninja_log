@@ -1010,3 +1010,5 @@
 32006	32250	1626899788896042714	.bin_timestamp	bf4231cd4a3021a0
 32251	32294	0	esp-idf/esptool_py/CMakeFiles/app_check_size	9b586e54c7ccbd50
 0	61	0	clean	a7c70eacb11a5051
+0	4416	1626903935330870970	build.ninja	c7a40eee1e47d2a3
+0	39	0	clean	a7c70eacb11a5051
