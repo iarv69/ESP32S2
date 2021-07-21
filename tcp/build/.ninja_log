@@ -1009,3 +1009,5 @@
 32030	32070	0	esp-idf/esptool_py/CMakeFiles/app_check_size	93a663fa0cf74210
 0	1519495	0	CMakeFiles/confserver	58135ae174441b5c
 0	57	0	clean	a7c70eacb11a5051
+0	4275	1626903641417912826	build.ninja	a1f10dde108f2972
+0	34	0	clean	a7c70eacb11a5051
